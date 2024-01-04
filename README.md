@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Kevin, 
+I'm currently learning the base of developpement with Holberton School's fondamental program in Thonon-les-bains.
 
 <!--
 **ksyv/ksyv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
