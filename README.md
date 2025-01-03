@@ -33,3 +33,20 @@ Full-stack developer
 
 ⚡  I also spend a lot of time on 3D printing and board games.
 
+<h2>GitHub Stats</h2>
+<div align="center">
+    
+![ksyv's Stats](https://github-readme-stats.vercel.app/api?username=ksyv&theme=radical&show_icons=true&hide_border=false&count_private=true)
+
+![ksyv's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ksyv&theme=radical&hide_border=false)
+
+![ksyv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksyv&theme=radical&show_icons=true&hide_border=false&layout=compact)
+
+</div>
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/kevin-viais">
+        
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</div>
