@@ -3,25 +3,25 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full-stack developer
 --------------------
-<pre>
+
 💻 Full-stack developer with a strong interest in the Javascript ecosystem (Node, mongo, angular...) 💻
 
 🎒 Currently a technical coach for future developers at @Holberton School Thonon-les-bains 🎒
 
 🚀 Goal 2025/26: Deepen my knowledge of full-stack web and app development through a work-study program with the same school (the best!) 🚀
 
-🎯 Open to:
-    🔹 Any project that would allow me to take on challenges and sharpen my skills, whether short, medium or long term, for fun, profit or human (or all at once!)
-    🔹 Exchanging and sharing experience and experiences,
-    🔹 Developing professional culture in general.
+🎯 Open to:<br>
+🔹 Any project that would allow me to take on challenges and sharpen my skills, whether short, medium or long term, for fun, profit or human (or all at once!)<br>
+🔹 Exchanging and sharing experience and experiences,<br>
+🔹 Developing professional culture in general.<br>
 
 
 🙋‍♂️ What do I carry everywhere with me?<br>
-    🔹 Overdeveloped motivation, curiosity and thirst for learning. 
-    🔹 A capacity for logical analysis and systemic solution proposals.
-    🔹 A commitment and determination to solve problems until a satisfactory solution is found.
-    🔹 Rapid understanding and assimilation of knowledge, concepts and organizational methods.
-    🔹 The passion I put into everything I do and a strong sense of belonging, a corporate attitude.
+    🔹 Overdeveloped motivation, curiosity and thirst for learning. <br>
+    🔹 A capacity for logical analysis and systemic solution proposals.<br>
+    🔹 A commitment and determination to solve problems until a satisfactory solution is found.<br>
+    🔹 Rapid understanding and assimilation of knowledge, concepts and organizational methods.<br>
+    🔹 The passion I put into everything I do and a strong sense of belonging, a corporate attitude.<br>
 
 ✉️  You can contact me at [ksyviais@gmail.com](mailto:ksyviais@gmail.com)
 
@@ -32,5 +32,4 @@ Full-stack developer
     And Flutter
 
 ⚡  I also spend a lot of time on 3D printing and board games.
-</pre>
 
